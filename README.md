@@ -33,3 +33,5 @@ Prerequisites:
 
 1. [A. Valenza, G. Costa, A. Armando. "Never Trust Your Victim: Weaponizing Vulnerabilities in Security Scanners"](https://www.researchgate.net/publication/344642774_Never_Trust_Your_Victim_Weaponizing_Vulnerabilities_in_Security_Scanners)
 2. [Attacking the Attackers](https://avalz.it/research/metasploit-pro-xss-to-rce/)
+
+Do not taunt Happy Fun Ball.
